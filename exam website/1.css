@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    font-size: 100%;
+    background: #F1F1F1;
+}
+
+*, html {
+    --primaryGradient: linear-gradient(93.12deg, #581B98 0.52%, #9C1DE7 100%);
+    --secondaryGradient: linear-gradient(268.91deg, #581B98 -2.14%, #9C1DE7 99.69%);
+    --primaryBoxShadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
+    --secondaryBoxShadow: 0px -10px 15px rgba(0, 0, 0, 0.1);
+    --primary: #581B98;
+}
+
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+.btn{
+    background-position: center;
+    font-size: large;
+    font-style: inherit;
+    font-display: center;
+    background-position-x: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+button{
+    width: 37%;
+    height:80px;
+    margin: 10%;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 20%;
+    margin-right: 15%;
+    font: 1em sans-serif;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: initial;
+    background-color: rgb(206, 198, 195);
+    font-size:medium;
+
+}

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<!-- Created By CodingNepal - www.codingnepalweb.com -->
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> SANHDNAI WRITTEN MATERIALS☺️</title> 
+   
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+   </head>
+<body>
+    <script>
+        
+        alert("welcome to SANDHANI'S BTECH WRITTEN MATERIALS page press ok and go to materials button to get materials -thank you")
+       </script>
+    
+    
+  <nav>
+    <div class="menu">
+      <div class="logo">
+        <a href="#">SANDHANI WRITTEN MATERIALS☺️</a>
+        <marquee class="headquote">ALL BTECH WRITTEN MATERIAS-***KINDLY WAIT FOR SOME TIME TO GET MORE WRIITEN MATERIALS******</marquee>
+     
+        <marquee class="headquote">****IF YOU HAVE ANY WRITTEN MATERIALS KINDLY SHARE IT ON CONTACT DETAILS****</marquee>
+        <script>
+           
+        </script>
+    <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/64d9d7f7cc26a871b02f179b/1h7pf780o';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
+       
+    </script>
+      
+        <br>
+    
+        <div class="menu-bar">
+    
+            <header class="sub-header2">
+                <nav>
+            <ul>
+                <li class="active"><a href="styles.css"><i class="fa fa-home"></i>Home</a></li>
+                    <li><a href=""><i class="fa fa-user"></i>MATERIALS</a>
+                        <div class="sub-menu-1">
+                        <ul>
+                            <li><a href="1st.html">1ST YEAR</a></li>
+                            <li><a href="2.HTML">2ND YEAR</a></li>
+                            <li><a href="3RD.HTML">3RD YEAR</a></li>
+                            <li><a href="3.HTML">3RD YEAR UNITS AND MID</a></li>
+                            
+                            
+                        </ul>
+                        </div>
+                    </li>
+               
+    
+                    <li><a href="contact.html"><i class="fa fa-phone"></i>Contact</a>
+                    <div class="sub-menu-1">
+                        <ul>
+                            <li><a href="contact.html">Contact </a></li>
+                        </ul>
+                </li>
+            </ul>
+        </nav>
+            </header>
+        </div>
+    </html>
+  </nav>
+  <div class="img"></div>
+  <div class="center">
+    <div class="title">SANDHANI WRITTEN MATERIALS</div>
+    <div class="sub_title">BTECH MATERIALS</div>
+    <div class="btns">
+      <button href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjT__ikp4uBAxWdSmwGHbskAsIQFnoECBYQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSolar_panel&usg=AOvVaw0ZRggW4HNlBcV_ve8e9scR&opi=89978449">MAWA VADUKO </button>
+      <P>CONTACT NUMBER- +91 8639167139
+        (SHAIK SANDHANI)
+      </P>
+     
+      <button href="https://www.google.com/search?client=firefox-b-d&sca_esv=562123659&sxsrf=AB5stBhq7Gjlpqm3Mr3WQ2hVisCKiEnUeA:1693636427885&q=solar+panel+savage&tbm=isch&source=univ&fir=j9RUuKvR0YGgPM%252CbDEWk5DOBFfvOM%252C_%253B2nqkprB_tV56_M%252CoY_uCL6B8xIDFM%252C_%253BXlsfExWo1ZOAcM%252Cxptp4bROb3V1QM%252C_%253BGO43auG1ely1bM%252CK2wS2MhDQWWxkM%252C_%253B2_zEFwHkgzycMM%252CKvpDTpvncmiBOM%252C_%253B1G4qxTLx_3YyLM%252C8FEVyxfMZoqV3M%252C_%253BjeP-u9RwvI4apM%252CaiVGbxqxkQem_M%252C_%253BsISclO1nhPJEhM%252Ct63Hiy2BM6lvDM%252C_%253BgHRJaI5RdrEw_M%252CK2wS2MhDQWWxkM%252C_%253Bl04LB2RfjNZ1wM%252CvwT5msMNbcnpWM%252C_&usg=AI4_-kSBV5eXeAYOWMGhWv_hDHCSYecZBg&sa=X&ved=2ahUKEwj-maatp4uBAxXja2wGHT0eDGIQjJkEegQIFBAC">DOWNLAOD CHESUKO</button>
+    </div>
+  </div>
+</body>
+</html>
+
+<p >This website contains only written materials ,in which the materials are written from various platforms like youtube,javatpoint,textbooks,refernce materials,w3schools and soon... This website contains only few materials we are gathering some more materials until then if you have any written materials please share to contact whatsapp number.Adithya Engineering college students also refering our website -thank you(shaik sandhani')</p>
+<p >ఈ వెబ్‌సైట్ వ్రాతపూర్వక మెటీరియల్‌లను మాత్రమే కలిగి ఉంది, ఇందులో మెటీరియల్‌లు youtube,javatpoint,textbooks,refernce material,w3schools వంటి వివిధ ప్లాట్‌ఫారమ్‌ల నుండి వ్రాయబడ్డాయి మరియు త్వరలో... ఈ వెబ్‌సైట్ కొన్ని మెటీరియల్‌లను మాత్రమే కలిగి ఉంది, మీ వద్ద ఏవైనా ఉంటే మేము ఇంకా కొన్ని మెటీరియల్‌లను సేకరిస్తాము. వ్రాసిన పదార్థాలు దయచేసి whatsapp నంబర్‌ను సంప్రదించడానికి భాగస్వామ్యం చేయండి. ఆదిత్య ఇంజనీరింగ్ కళాశాల విద్యార్థులు మా వెబ్‌సైట్‌ను కూడా సూచిస్తున్నారు -ధన్యవాదాలు(షేక్ సంధాని')
+
+    Ī website vrātapūrvaka meṭīriyal‌lanu mātramē kaligi undi, indulō meṭīriyal‌lu youtube,javatpoint,textbooks,refernce material,w3schools vaṇṭi vividha plāṭ‌phāram‌la nuṇḍi vrāyabaḍḍāyi mariyu tvaralō... Ī veb‌saiṭ konni meṭīriyal‌lanu mātramē kaligi undi, mī vadda ēvainā uṇṭē mēmu iṅkā konni meṭīriyal‌lanu sēkaristāmu. Vrāsina padārthālu dayacēsi whatsapp nambar‌nu sampradin̄caḍāniki bhāgasvāmyaṁ cēyaṇḍi. Āditya in̄janīriṅg kaḷāśāla vidyārthulu mā veb‌saiṭ‌nu kūḍā sūcistunnāru -dhan'yavādālu(ṣēk sandhāni')</p>
+
+</head>
+<body>
+  
+    <div class="banner"></div>
+        <div class="navbar"></div>
+       
+        <img src="vits.png" width="">
+            
+                <ul>
+                    <button><a href="">home</a></button>
+                    <button><a href="http://pbrvits.ac.in/">about us</a></button>
+                    <button><a href="alexabois.jpeg" >alexabois pic</a></button>
+                    <button><a href="contact.html">contact us</a></button>
+
+     
+
+        
+</body>
+</html>
+          
+        </section>
+                </div>
+            </selection>
+            <div class="contact">
+                <h4 class="h4size">Contact: SHAIK SANDHANI - +91 8639167139</h4>
+                <a href="https:://maps.app.goo.gl/iuQU686YEApHG4ev5" target="_blank"></a>
+                <hr>
+<div class="reserve"><b><i><h6>THIS WEBSITE WAS DEVELOPED BY</h6>
+    <h6>BANDI PAVANI</h6>
+    <h6>SHAIK SANDHANI</h6>
+ 
+    </i></b>
+</div>
+<hr>
+
+`
+    <!-- <script>
+        $SCRIPT_ROOT = {{ request.script_root|tojson }};
+    </script> -->
+    <script type="text/javascript" src="{{ url_for('static', filename='app.js') }}"></script>
+
+</body>
+</html>
+
+
+
+
+
+
+
+                    <img src="loc.jpg" alt="hello" class="loc">
+                    <h3 class="loc2">Location</h3>
+                
+                    <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3855.4358654220127!2d79.98060957334567!3d14.912790669360675!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4b7b8c7ae4a3dd%3A0x64952da143ca8d29!2sPBR%20Visvodaya%20Institute%20of%20Technology%20%26%20Science!5e0!3m2!1sen!2sin!4v1693099425967!5m2!1sen!2sin" width="200" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+                </a>
+              
+               
+            </div>
+            <br>
+            <hr>
+            
+            <hr>
+            
+            
+                <!-- <script>
+                    $SCRIPT_ROOT = {{ request.script_root|tojson }};
+                </script> -->
+                <script type="text/javascript" src="{{ url_for('static', filename='app.js') }}"></script>
+            
+            </body>
+            </html>
+    </selection>
+    
+    <br>
+    <hr>
+    <div class="reserve"><b><i><h6>THIS WEBSITE WAS DEVELOPED BY</h6>
+        <h6>SHAIK SANDHANI</h6>
+        <h6>BANDI PAVANI</h6>
+        
+        </i></b>
+    </div>
+    <hr>
+    
+    
+        <!-- <script>
+            $SCRIPT_ROOT = {{ request.script_root|tojson }};
+        </script> -->
+        <script type="text/javascript" src="{{ url_for('static', filename='app.js') }}"></script>
+    
+    </body>
+    </html>
+    
